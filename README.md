@@ -5,6 +5,4 @@ This class consists of four private dictionaries:    _weekDaysSolar_ and   _maun
 ToLongSolarDateString (this DateTime datetime);
 ToShortSolarDateString (this DateTime datetime); 
 ToLongLunarDateString (this DateTime datetime);
-ToShortLunarDateString (this DateTime datetime);```
-
-     
+ToShortLunarDateString (this DateTime datetime);
