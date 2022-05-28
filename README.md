@@ -1,5 +1,5 @@
 # String Format for other Calenders
-This class consists of four private dictionaries:    _```c# _weekDaysSolar```_ and   _```c# _maunthSolar```_,   _```c# _weekDaysLunar```_ and   _```c# _maunthLunar```_, which are definitions of the names of months and days of the week in the Hijri and Persian calendars. This class then has four Extension methods that, using a dictionary and taking a DateTime type, return long and short frames of a string:
+This class consists of four private dictionaries:    _```_weekDaysSolar```_ and   _``` _maunthSolar```_,   _``` _weekDaysLunar```_ and   _``` _maunthLunar```_, which are definitions of the names of months and days of the week in the Hijri and Persian calendars. This class then has four Extension methods that, using a dictionary and taking a DateTime type, return long and short frames of a string:
 
 ```c#
 .ToLongSolarDateString (this DateTime datetime);
