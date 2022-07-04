@@ -16,8 +16,8 @@ This library contains two files, SolatSTD and LunarSTD. The SolarSTD file contai
 
 For the Hijri calendar as above:  
 
-- ToLunarFullTextFormat
-- ToLunarFullFormat
-- ToLunarNoWeekFormat
-- ToLunarShortFormat
-- ToLunarMinTextFormat
+- ```ToLunarFullTextFormat```
+- ```ToLunarFullFormat```
+- ```ToLunarNoWeekFormat```
+- ```ToLunarShortFormat```
+- ```ToLunarMinTextFormat```
